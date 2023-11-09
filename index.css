@@ -1,0 +1,49 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+img{
+    margin-left: 350px;
+    
+}
+hr,.mui{
+    margin-left :350px;
+margin-right: 400px;
+}
+
+
+h3{
+    margin-left:350px;
+    color: lightgreen;
+}
+.me{
+    margin-left: 300px;
+}
+.you,h5{
+    margin-left: 500px;
+}
+h2,.he{
+    padding-left: 160px;
+}
+h4,.hello{
+    margin-left: 120px;
+    
+}
+button{
+    background-color:TOMATO;
+    color: white;
+    border: none;
+    margin-left: 400px;
+}
+.uyu{
+    background-color: limegreen;
+    color: white;
+
+}
+a{
+    margin-left:80px;
+    text-decoration: none;
+    color: white;
+    
+}
